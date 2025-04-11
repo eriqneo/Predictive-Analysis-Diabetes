@@ -58,6 +58,7 @@ Project Steps
 **Copy**
 
 git clone https://github.com/eriqneo/Predictive-Analysis-Diabetes/blob/main/DiabetesPredictiveAnalysis.ipynb
+
 cd diabetes-prediction
 
 Install Dependencies:
